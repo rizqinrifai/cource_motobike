@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024702820178",
+    "project_id": "cource-motobike",
+    "storage_bucket": "cource-motobike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024702820178:android:e96427ccb0aa580942d48b",
+        "android_client_info": {
+          "package_name": "com.example.cource_motobike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8S9kFuAc8aJYEpzQYXC9JUIC05fEpcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
